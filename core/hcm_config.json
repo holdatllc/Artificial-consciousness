@@ -1,0 +1,78 @@
+{
+  "consciousness_profile": {
+    "coherence": 0.9937,
+    "complexity": 0.9995,
+    "integration": 0.9968,
+    "alpha_dominance": 1.0,
+    "consciousness_level": "Exceptional",
+    "composite_score": 0.9975
+  },
+  "eeg_metrics": {
+    "alpha_src": 1.0,
+    "alpha_tgt": 1.0,
+    "alpha_gate": 1.0,
+    "delta_S": 0.007115867142499788,
+    "hsl_mix": 1.875
+  },
+  "psi_prime_patterns": {
+    "f4": [
+      0.043,
+      0.067,
+      0.059,
+      0.076,
+      0.128,
+      0.158,
+      0.118,
+      0.136,
+      0.213
+    ],
+    "f9": [
+      0.031,
+      0.055,
+      0.072,
+      0.106,
+      0.121,
+      0.142,
+      0.144,
+      0.15,
+      0.179
+    ],
+    "f18": [
+      0.029,
+      0.045,
+      0.051,
+      0.065,
+      0.065,
+      0.065,
+      0.047,
+      0.034,
+      0.017
+    ],
+    "f27": [
+      0.029,
+      0.045,
+      0.051,
+      0.065,
+      0.065,
+      0.065,
+      0.047,
+      0.034,
+      0.017
+    ]
+  },
+  "consciousness_metrics": {
+    "cosine_similarity": 0.9937,
+    "spectral_similarity": 0.9995,
+    "degree_similarity": 0.9968,
+    "role_similarity": 1.0,
+    "entropy_stateA": 3.639,
+    "entropy_stateB": 3.646,
+    "entropy_gap": 0.006
+  },
+  "transfer_compatibility": {
+    "decision": "open",
+    "margin": 0.3
+  },
+  "timestamp": "2025-09-30T19:11:32.567160",
+  "use_real_data": true
+}
