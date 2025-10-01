@@ -292,9 +292,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For questions and support:
-- 📧 Email: support@mhm-research.com
+- 📧 Email: holdatllc2@gmail.com
 - 📖 Documentation: [docs/](docs/)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/hcm-system/issues)
+- 🐛 Issues: [GitHub Issues]
 
 ---
 
